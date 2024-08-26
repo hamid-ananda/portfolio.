@@ -41,7 +41,7 @@ const Projects = () => {
                 "Visualized data using box plots, histograms, scatter plots, pair plots, and correlation heatmaps."
             ],
             image: RiceBreedImage,
-            github: "https://github.com/hamid-ananda/RiceBreedAnalysis",
+            github: "https://github.com/hamid-ananda/RiceBreeedAnalysis",
         },
         {
             title: "Nutrien Sales Stats",
