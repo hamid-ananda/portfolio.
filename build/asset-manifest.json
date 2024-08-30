@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d623ceb.css",
+    "main.js": "/static/js/main.28f219a1.js",
+    "static/media/potato.png": "/static/media/potato.7dbb763324dda802e866.png",
+    "static/media/profile.jpg": "/static/media/profile.5c6b7550749871a80473.jpg",
+    "static/media/powerbi.png": "/static/media/powerbi.50f4ec90f7023fe378a6.png",
+    "static/media/nutrien.png": "/static/media/nutrien.f8e4e8772e59d8a3a45d.png",
+    "static/media/workout.png": "/static/media/workout.0c993cf5e0a2606dcb52.png",
+    "static/media/RiceBreedImage.png": "/static/media/RiceBreedImage.d167d07a6af5c7c87782.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.2d623ceb.css.map": "/static/css/main.2d623ceb.css.map",
+    "main.28f219a1.js.map": "/static/js/main.28f219a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d623ceb.css",
+    "static/js/main.28f219a1.js"
+  ]
+}
